@@ -1,12 +1,9 @@
 {
-  "users": [{
-    "id": 1,
-    "name": "Arthur Oliveira",
-    "email": "arthur@cod3r.com.br"
-  },
-  {
-    "id": 2,
-    "name": "Maria Julia da Silva",
-    "email": "maria@cod3r.com.br"
-  }]
+  "users": [
+    {
+      "name": "Halex Penha Ramos",
+      "email": "halexramos96@gmail.com",
+      "id": 1
+    }
+  ]
 }
